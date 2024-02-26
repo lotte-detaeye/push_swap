@@ -1,2 +1,2 @@
 # push_swap
-42 sorting algorithm project
+Project to learn more about sorting algorithms <3
